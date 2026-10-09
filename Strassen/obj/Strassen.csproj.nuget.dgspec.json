@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mks\\source\\repos\\Strassen\\Strassen\\Strassen.csproj": {}
+    "C:\\Users\\mks\\Documents\\Strassen\\Strassen\\Strassen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mks\\source\\repos\\Strassen\\Strassen\\Strassen.csproj": {
+    "C:\\Users\\mks\\Documents\\Strassen\\Strassen\\Strassen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mks\\source\\repos\\Strassen\\Strassen\\Strassen.csproj",
+        "projectUniqueName": "C:\\Users\\mks\\Documents\\Strassen\\Strassen\\Strassen.csproj",
         "projectName": "Strassen",
-        "projectPath": "C:\\Users\\mks\\source\\repos\\Strassen\\Strassen\\Strassen.csproj",
+        "projectPath": "C:\\Users\\mks\\Documents\\Strassen\\Strassen\\Strassen.csproj",
         "packagesPath": "C:\\Users\\mks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mks\\source\\repos\\Strassen\\Strassen\\obj\\",
+        "outputPath": "C:\\Users\\mks\\Documents\\Strassen\\Strassen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

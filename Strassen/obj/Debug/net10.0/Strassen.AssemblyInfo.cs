@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Strassen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85551d028f843ef49c95a9259763eda36015fcad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Strassen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Strassen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
