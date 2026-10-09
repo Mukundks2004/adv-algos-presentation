@@ -1,0 +1,15 @@
+C:\Users\mks\source\repos\Strassen\Strassen\bin\Debug\net10.0\Strassen.exe
+C:\Users\mks\source\repos\Strassen\Strassen\bin\Debug\net10.0\Strassen.deps.json
+C:\Users\mks\source\repos\Strassen\Strassen\bin\Debug\net10.0\Strassen.runtimeconfig.json
+C:\Users\mks\source\repos\Strassen\Strassen\bin\Debug\net10.0\Strassen.dll
+C:\Users\mks\source\repos\Strassen\Strassen\bin\Debug\net10.0\Strassen.pdb
+C:\Users\mks\source\repos\Strassen\Strassen\obj\Debug\net10.0\Strassen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mks\source\repos\Strassen\Strassen\obj\Debug\net10.0\Strassen.AssemblyInfoInputs.cache
+C:\Users\mks\source\repos\Strassen\Strassen\obj\Debug\net10.0\Strassen.AssemblyInfo.cs
+C:\Users\mks\source\repos\Strassen\Strassen\obj\Debug\net10.0\Strassen.csproj.CoreCompileInputs.cache
+C:\Users\mks\source\repos\Strassen\Strassen\obj\Debug\net10.0\Strassen.dll
+C:\Users\mks\source\repos\Strassen\Strassen\obj\Debug\net10.0\refint\Strassen.dll
+C:\Users\mks\source\repos\Strassen\Strassen\obj\Debug\net10.0\Strassen.pdb
+C:\Users\mks\source\repos\Strassen\Strassen\obj\Debug\net10.0\Strassen.genruntimeconfig.cache
+C:\Users\mks\source\repos\Strassen\Strassen\obj\Debug\net10.0\ref\Strassen.dll
+C:\Users\mks\source\repos\Strassen\Strassen\obj\Debug\net10.0\Strassen.csproj.Up2Date
